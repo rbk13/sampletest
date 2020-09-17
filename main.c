@@ -3,6 +3,7 @@
 
 int main()
 {
-printf("Hello");
-return 0;
+int a,b;
+scanf("%d,%d",&a,&b);
+return(a+b);
 }
